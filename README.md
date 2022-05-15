@@ -22,7 +22,7 @@
 [![Git Inspector](https://github.com/AravinthArumugam/M3_WIPER_SYSTEM/actions/workflows/Git%20Inspector.yml/badge.svg)](https://github.com/AravinthArumugam/M3_WIPER_SYSTEM/actions/workflows/Git%20Inspector.yml)
 
 # BUILD ON LINUX :
-
+[![Build-Linux](https://github.com/AravinthArumugam/M3_WIPER_SYSTEM/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/AravinthArumugam/M3_WIPER_SYSTEM/actions/workflows/Build-Linux.yml)
 
 # VALGRIND :
 [![Valgrind](https://github.com/AravinthArumugam/M3_WIPER_SYSTEM/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/AravinthArumugam/M3_WIPER_SYSTEM/actions/workflows/Valgrind.yml)

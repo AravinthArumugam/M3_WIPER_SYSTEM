@@ -19,7 +19,7 @@
 
 
 # GIT INSPECTOR :
-
+[![Git Inspector](https://github.com/AravinthArumugam/M3_WIPER_SYSTEM/actions/workflows/Git%20Inspector.yml/badge.svg)](https://github.com/AravinthArumugam/M3_WIPER_SYSTEM/actions/workflows/Git%20Inspector.yml)
 
 # BUILD ON LINUX :
 

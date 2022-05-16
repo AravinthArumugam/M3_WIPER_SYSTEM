@@ -5,11 +5,11 @@
 
 # BADGES :
 
-# CODE QUALITY 
-https://api.codiga.io/project/33577/score/svg
+# CODE QUALITY  ![CODE QUALITY SCORE] https://api.codiga.io/project/33577/score/svg
 
-# CODE GRADE 
-https://api.codiga.io/project/33577/status/svg
+
+# CODE GRADE ![CODE GRADE] https://api.codiga.io/project/33577/status/svg
+
 
 
 # CODACY :

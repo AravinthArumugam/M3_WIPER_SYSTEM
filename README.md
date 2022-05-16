@@ -10,6 +10,7 @@
 # CODE GRADE 
 
 # CODACY :
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/99fa067241204422819383c190bbdd5f)](https://www.codacy.com/gh/AravinthArumugam/M3_WIPER_SYSTEM/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AravinthArumugam/M3_WIPER_SYSTEM&amp;utm_campaign=Badge_Grade)
 
 
 # UNIT TESTING :
